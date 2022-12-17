@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6bd3ac58754789142b182c494fd9283d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - obstaclePrefab: {fileID: 1933279884042146883, guid: 1553d2257953aa64e930e25d17f049a2, type: 3}
+  - player: {fileID: 301984587962588907, guid: 0124470cec5cdd24ba6a27f30e762561, type: 3}
+  - enemy: {fileID: 8927192080056746545, guid: f355136653dac344f854630c27f91699, type: 3}
+  - winFlag: {fileID: 2229428606966447256, guid: 65170bc412a0f1f4ca328aa52ece37e6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
